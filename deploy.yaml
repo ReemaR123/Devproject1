@@ -18,4 +18,4 @@ spec:
       - name: mydeplymentcont
         image: reemar123/test:latest
         ports:
-        - containerPort: 80
+        - containerPort: 85
