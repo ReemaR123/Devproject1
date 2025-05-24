@@ -8,5 +8,5 @@ spec:
     app: apache2
   ports:
     - port: 80
-      targetPort: 85
-      nodePort: 30010
+      targetPort: 80
+      nodePort: 30085
